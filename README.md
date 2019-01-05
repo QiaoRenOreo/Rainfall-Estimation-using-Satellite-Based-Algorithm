@@ -4,7 +4,8 @@ The complete report of this project is [here](https://github.com/QiaoRenOreo/Rai
 ## Abstract
 The spatial and temporal distribution of precipitation is very important for scientific uses and human being’s life [1]. The main goal of this study is to automate the process of producing precipitation estimates, based on gauge precipitation observation and satellite precipitation estimates. The scripts use ILWI-Python extensions (ilwis4). The algorithm applied in this study is Combined Scheme (CoSch) technique [1]. In order to generalize the script, two cases have been implemented: Latin America case and Africa case. The scripts and the precipitation estimation results produced in both cases are very useful for future work. 
 
-Keywords: combined scheme, additive bias correction, ratio bias correction
+## Keywords
+  satellite-based rainfall estimation, gauge-based rainfall observation, combined scheme, additive bias correction, ratio bias correction
 
 ## Objective
 The goal of this study is to develop scripts that automate and execute the Combined Scheme technique using ILWI-Python extensions.
