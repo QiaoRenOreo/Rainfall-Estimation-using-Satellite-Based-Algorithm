@@ -25,7 +25,7 @@ The goal of this study is to develop scripts that automate and execute the Combi
 deatialed flowchart of stage1,2,3 and 4 are [here]
 
 ## Input 
-![output_africa_56_smallstoragespace](https://user-images.githubusercontent.com/46351057/50722423-bde83380-1109-11e9-9a14-4d87f451a181.png)
+
 ![input_ppt](https://user-images.githubusercontent.com/46351057/50722240-0eaa5d00-1107-11e9-9da8-be448d63a405.png)
 
 ## Results
