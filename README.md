@@ -28,6 +28,23 @@ detailed flowchart of stage1,2,3 and 4 are [here](https://github.com/QiaoRenOreo
 
 ![input_ppt](https://user-images.githubusercontent.com/46351057/50722240-0eaa5d00-1107-11e9-9da8-be448d63a405.png)
 
+1)Rainfall statelite data (RFS) 
+
+![input1_rainfall_satellite_data](https://user-images.githubusercontent.com/46351057/50722577-1caeac80-110c-11e9-83bb-b2715a84e2ff.PNG)
+
+2) CPC precipitation
+
+![input2_cpc_precipitation](https://user-images.githubusercontent.com/46351057/50722579-1d474300-110c-11e9-8a6a-5e10fb7620fb.PNG)
+
+3) CPC gauge distribution
+
+![input3_cpc_gauge_distribution](https://user-images.githubusercontent.com/46351057/50722580-1d474300-110c-11e9-97a7-33a76c4bf1fb.PNG)
+
+4) Region of interest (ROI)
+
+![input4_roi](https://user-images.githubusercontent.com/46351057/50722576-1caeac80-110c-11e9-9424-2e34932e5922.PNG)
+
+
 ## Results
 ![output_ppt](https://user-images.githubusercontent.com/46351057/50722239-0eaa5d00-1107-11e9-88d9-3b2f3f1943b0.PNG)
 ### A.	Result in the Latin America case
@@ -36,4 +53,7 @@ detailed flowchart of stage1,2,3 and 4 are [here](https://github.com/QiaoRenOreo
 ### B.	Results in the Africa Case
 ![output_africa_56_smallstoragespace](https://user-images.githubusercontent.com/46351057/50722436-e96b1e00-1109-11e9-83a8-d575c2df0a73.png)
 ![output_africa_78_smallstoragespace](https://user-images.githubusercontent.com/46351057/50722435-e96b1e00-1109-11e9-9f96-b465a747aacc.png)
-Statistics for basin management (Africa Case)
+
+Statistics results for basin management (Africa Case)
+
+![output_africa_statistics](https://user-images.githubusercontent.com/46351057/50722609-7f07ad00-110c-11e9-8c62-46c20f7f8016.png)
