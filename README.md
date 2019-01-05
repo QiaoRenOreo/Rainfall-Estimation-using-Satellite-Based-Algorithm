@@ -22,7 +22,7 @@ The goal of this study is to develop scripts that automate and execute the Combi
 ## Methodology
 ![overview_2imgs](https://user-images.githubusercontent.com/46351057/50722236-ff2b1400-1106-11e9-9038-80cc29701089.PNG)
 
-deatialed flowchart of stage1,2,3 and 4 are [here]
+detailed flowchart of stage1,2,3 and 4 are [here](https://github.com/QiaoRenOreo/Rainfall-Estimation-using-Satellite-Based-Algorithm/tree/master/flowchart)
 
 ## Input 
 
