@@ -22,9 +22,10 @@ The goal of this study is to develop scripts that automate and execute the Combi
 ## Methodology
 ![overview_2imgs](https://user-images.githubusercontent.com/46351057/50722236-ff2b1400-1106-11e9-9038-80cc29701089.PNG)
 
-deatialed flowchart of stage1,2,3 and 4 is [here]
+deatialed flowchart of stage1,2,3 and 4 are [here]
 
 ## Input 
+![output_africa_56_smallstoragespace](https://user-images.githubusercontent.com/46351057/50722423-bde83380-1109-11e9-9a14-4d87f451a181.png)
 ![input_ppt](https://user-images.githubusercontent.com/46351057/50722240-0eaa5d00-1107-11e9-9da8-be448d63a405.png)
 
 ## Results
@@ -33,6 +34,6 @@ deatialed flowchart of stage1,2,3 and 4 is [here]
 ![output_latinamerica_12](https://user-images.githubusercontent.com/46351057/50722362-db68cd80-1108-11e9-8c69-1027f46efd19.png)
 ![output_latinamerica_34](https://user-images.githubusercontent.com/46351057/50722360-dad03700-1108-11e9-85b2-294375d250cf.png)
 ### B.	Results in the Africa Case
-
-![output_africa_78](https://user-images.githubusercontent.com/46351057/50722361-db68cd80-1108-11e9-906b-a86f088ae3d6.png)
-
+![output_africa_56_smallstoragespace](https://user-images.githubusercontent.com/46351057/50722436-e96b1e00-1109-11e9-83a8-d575c2df0a73.png)
+![output_africa_78_smallstoragespace](https://user-images.githubusercontent.com/46351057/50722435-e96b1e00-1109-11e9-9f96-b465a747aacc.png)
+Statistics for basin management (Africa Case)
