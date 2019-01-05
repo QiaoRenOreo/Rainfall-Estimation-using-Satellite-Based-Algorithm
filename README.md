@@ -1,5 +1,5 @@
 # bachelorAssignment: Estimation of Rainfall by Integrating a Satellite-Based Algorithm and Rain Gauge Networks
-The complete report of this project is [here]()
+The complete report of this project is [here](https://github.com/QiaoRenOreo/Rainfall-Estimation-using-Satellite-Based-Algorithm/blob/master/report_QiaoRen_final.pdf)
 
 ## Abstract
 The spatial and temporal distribution of precipitation is very important for scientific uses and human being’s life [1]. The main goal of this study is to automate the process of producing precipitation estimates, based on gauge precipitation observation and satellite precipitation estimates. The scripts use ILWI-Python extensions (ilwis4). The algorithm applied in this study is Combined Scheme (CoSch) technique [1]. In order to generalize the script, two cases have been implemented: Latin America case and Africa case. The scripts and the precipitation estimation results produced in both cases are very useful for future work. 
@@ -19,10 +19,7 @@ The goal of this study is to develop scripts that automate and execute the Combi
 
 ## Methodology
 ![flowchart_follow the material overview](https://user-images.githubusercontent.com/46351057/50721035-532bfd80-10f3-11e9-86a5-236d1c98e2d6.jpg)
-![flowchart_same structure as the material_stage1](https://user-images.githubusercontent.com/46351057/50721036-53c49400-10f3-11e9-8072-27fd747f851f.jpg)
-![flowchart_same structure as the material_stage2](https://user-images.githubusercontent.com/46351057/50721037-545d2a80-10f3-11e9-9f52-3abce787957b.jpg)
-![flowchart_same structure as the material_stage3](https://user-images.githubusercontent.com/46351057/50721038-54f5c100-10f3-11e9-9446-8b5fa624f773.jpg)
-![flowchart_same structure as the material_stage4](https://user-images.githubusercontent.com/46351057/50721034-532bfd80-10f3-11e9-97be-1920d7e6bb66.jpg)
+flowchart of each stage is [here]
 
 ## Input 
 
