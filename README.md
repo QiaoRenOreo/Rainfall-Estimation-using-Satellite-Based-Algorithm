@@ -28,7 +28,7 @@ detailed flowchart of stage1,2,3 and 4 are [here](https://github.com/QiaoRenOreo
 
 ![input_ppt](https://user-images.githubusercontent.com/46351057/50722240-0eaa5d00-1107-11e9-9da8-be448d63a405.png)
 
-1)Rainfall statelite data (RFS) 
+1) Rainfall statelite data (RFS) 
 
 ![input1_rainfall_satellite_data](https://user-images.githubusercontent.com/46351057/50722577-1caeac80-110c-11e9-83bb-b2715a84e2ff.PNG)
 
