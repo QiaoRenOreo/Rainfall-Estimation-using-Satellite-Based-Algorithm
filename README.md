@@ -13,19 +13,26 @@ The goal of this study is to develop scripts that automate and execute the Combi
 ## State of art
 1) What are the advantages and disadvantage of gauge-based rainfall observation and satellite-based rainfall estimation? 
     The table shows a comparison between gauge-based rainfall observation and satellite-based rainfall estimation on their reliability and area coverage
-![stateofart_gauge_vs_satellite](https://user-images.githubusercontent.com/46351057/50721090-596ea980-10f4-11e9-8dec-fb0cc2c5160f.png)
+![introduction_ppt](https://user-images.githubusercontent.com/46351057/50722303-ce97aa00-1107-11e9-89d9-fbbf45bf4a51.PNG)
+
 
 2) What is the best merging technique? 
     Combined scheme (CoSch) technique consistently presents the best performance, among all the five merging techniques [1]. Combined scheme technique combines two approaches (additive bias correction and ratio bias correction) into a single method to remove the bias of the satellite estimates [3]. If the precipitation value corrected by additive bias correction (ADD) is closer to the gauge-based observation than the value corrected by ratio bias correction (ADD), then the ADD-corrected rainfall value is chosen [1]. Vice versa. 
 
 ## Methodology
-![flowchart_follow the material overview](https://user-images.githubusercontent.com/46351057/50721035-532bfd80-10f3-11e9-86a5-236d1c98e2d6.jpg)
-flowchart of each stage is [here]
+![overview_2imgs](https://user-images.githubusercontent.com/46351057/50722236-ff2b1400-1106-11e9-9038-80cc29701089.PNG)
+
+deatialed flowchart of stage1,2,3 and 4 is [here]
 
 ## Input 
+![input_ppt](https://user-images.githubusercontent.com/46351057/50722240-0eaa5d00-1107-11e9-9da8-be448d63a405.png)
 
 ## Results
-
+![output_ppt](https://user-images.githubusercontent.com/46351057/50722239-0eaa5d00-1107-11e9-88d9-3b2f3f1943b0.PNG)
 ### A.	Result in the Latin America case
+![output_latinamerica_12](https://user-images.githubusercontent.com/46351057/50722362-db68cd80-1108-11e9-8c69-1027f46efd19.png)
+![output_latinamerica_34](https://user-images.githubusercontent.com/46351057/50722360-dad03700-1108-11e9-85b2-294375d250cf.png)
+### B.	Results in the Africa Case
 
-### B.	Results in the Africa Case 
+![output_africa_78](https://user-images.githubusercontent.com/46351057/50722361-db68cd80-1108-11e9-906b-a86f088ae3d6.png)
+
