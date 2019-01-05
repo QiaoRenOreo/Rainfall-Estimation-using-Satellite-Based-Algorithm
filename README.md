@@ -1,5 +1,5 @@
 # bachelorAssignment: Estimation of Rainfall by Integrating a Satellite-Based Algorithm and Rain Gauge Networks
-The complete report of this project is [here](https://github.com/QiaoRenOreo/Rainfall-Estimation-using-Satellite-Based-Algorithm/blob/master/report_QiaoRen_final.pdf)
+The complete report of this project is [on this page](https://github.com/QiaoRenOreo/Rainfall-Estimation-using-Satellite-Based-Algorithm)
 
 ## Abstract
 The spatial and temporal distribution of precipitation is very important for scientific uses and human being’s life [1]. The main goal of this study is to automate the process of producing precipitation estimates, based on gauge precipitation observation and satellite precipitation estimates. The scripts use ILWI-Python extensions (ilwis4). The algorithm applied in this study is Combined Scheme (CoSch) technique [1]. In order to generalize the script, two cases have been implemented: Latin America case and Africa case. The scripts and the precipitation estimation results produced in both cases are very useful for future work. 
