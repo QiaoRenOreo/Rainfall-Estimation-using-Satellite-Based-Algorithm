@@ -1,4 +1,4 @@
-# bachelorAssignment: Estimation of Rainfall by Integrating a Satellite-Based Algorithm and Rain Gauge Networks
+# bachelorAssignment: Statistical Estimation of Rainfall by Integrating a Satellite-Based Algorithm and Rain Gauge Networks
 The complete report of this project is [on this page](https://github.com/QiaoRenOreo/Rainfall-Estimation-using-Satellite-Based-Algorithm)
 
 ## Abstract
